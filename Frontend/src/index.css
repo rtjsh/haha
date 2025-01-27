@@ -1,0 +1,8 @@
+@import "../src/assets/Fonts//Geist//style.css";
+@import "tailwindcss";
+
+body{
+    font-family: 'Geist', sans-serif;
+    background-color: #f6f2ff;
+
+}
